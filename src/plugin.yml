@@ -1,0 +1,10 @@
+name: LOBBY
+main: info.techwizmatt.ServerSelector.Main
+version: 1.0
+depend: [Core]
+commands:
+    maintence:
+    unix:
+    test:
+    statwall:
+    loadcosmetics:
